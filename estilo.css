@@ -1,4 +1,12 @@
 body{
     background: silver;
 }
-
+p{
+    font-size: 25px;
+    font-family: 'Arial ';
+    color: red;
+}
+h2{
+    font-size: 30px;
+    color: Gold;
+}
