@@ -21,3 +21,9 @@ p.formato{
 .centro{
     text-align: center;
 }
+
+h3,h4{
+    color: purple;
+    font-size: 33px;
+    font-family: Cambria;
+}
