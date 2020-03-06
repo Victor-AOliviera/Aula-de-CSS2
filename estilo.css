@@ -10,3 +10,10 @@ h2{
     font-size: 30px;
     color: Gold;
 }
+
+p.formato{
+    color: green;
+    font-size: 29px;
+    font-family: 'Courier New'
+
+}
