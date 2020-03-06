@@ -17,3 +17,7 @@ p.formato{
     font-family: 'Courier New'
 
 }
+
+.centro{
+    text-align: center;
+}
